@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\preethu\\.nuget\\packages\\": {}
+    "C:\\Users\\Pooja S\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Experiment\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Pooja S\\Source\\Repos\\PushandPullExperiment\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\preethu\\source\\repos\\Experiment\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\preethu\\source\\repos\\Experiment\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Pooja S\\Source\\Repos\\PushandPullExperiment\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pooja S\\Source\\Repos\\PushandPullExperiment\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
